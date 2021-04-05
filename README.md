@@ -1,1 +1,2 @@
 # My_Laplaces_Equation_solver
+This code was written for a class project. The saying "you need to be cleverer to debug code than to write it, so if you write the cleverest code you can, you aren't smart enough to debug it" applys here. The basic idea of the method used involves the conjugate gradient method and greens functions. Several features and functions were written with the intention of making a fast multipole based method. 
